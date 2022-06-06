@@ -50,7 +50,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              f-128, South Delhi, New Delhi-110044 India
+              New Delhi, India
             </div>
           </div>
         </div>
